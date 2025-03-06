@@ -1,5 +1,5 @@
 # **Rishi Rana**  
-🚀 **B.Tech CSE | Interested in Cybersecurity **  
+🚀 **B.Tech CSE | Interested in Cybersecurity**  
 💡 **Passionate about Problem-Solving & Secure Software Development**  
 📌 **Currently Learning DSA | Exploring System Security | Open to Internships**  
 

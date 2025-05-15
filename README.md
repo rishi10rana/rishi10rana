@@ -3,6 +3,8 @@
 **B.Tech CSE (Cybersecurity Specialization)**  
 **Aspiring Software Developer | Interested in Cybersecurity and Problem Solving**
 
+![](/assets/matrix.gif)
+
 ## About Me
 
 - 3rd year Computer Science Engineering student (Cybersecurity Specialization) 

@@ -3,7 +3,7 @@
 **B.Tech CSE (Cybersecurity Specialization)**  
 **Aspiring Software Developer | Interested in Cybersecurity and Problem Solving**
 
-<img src="/assets/matrix.gif" width="400" height="250" alt="GIF" />
+<img src="/assets/matrix.gif" width="300" height="200" alt="GIF" />
 
 ## About Me
 

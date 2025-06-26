@@ -9,6 +9,6 @@
 
 ## Connect with Me
 
-[![LinkedIn]](https://www.linkedin.com/in/rishi-rana-11426a330)  
-[![GitHub]](https://github.com/rishi10rana)  
-[![LeetCode]](https://leetcode.com/u/Rishi_10_Rana/)
+![LinkedIn](https://www.linkedin.com/in/rishi-rana-11426a330)  
+![GitHub](https://github.com/rishi10rana)  
+![LeetCode](https://leetcode.com/u/Rishi_10_Rana/)

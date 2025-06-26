@@ -1,16 +1,14 @@
 # Rishi Rana
 
 **B.Tech CSE (Cybersecurity Specialization)**  
-**Aspiring Software Developer | Interested in Cybersecurity and Problem Solving**
-
-<img src="/assets/matrix.gif" width="250" height="180" alt="GIF" />
+**Software Developer | Cybersecurity and Problem Solving**
 
 ## About Me
 
 - 3rd year Computer Science Engineering student (Cybersecurity Specialization) 
 - **Proficient in:** C++, Java, Linux  
 - **Building:** Real-world projects to enhance skills  
-- **Currently Learning:** Data Structures & Algorithms, Cybersecurity Fundamentals  
+- **Currently Learning:** Data Structures & Algorithms 
 - **Goals:** Secure an internship & contribute to open-source  
 
 ## Connect with Me

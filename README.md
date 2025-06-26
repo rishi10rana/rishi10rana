@@ -9,6 +9,6 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-rana-11426a330)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishi10rana)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Rishi_10_Rana/)
+[![LinkedIn]](https://www.linkedin.com/in/rishi-rana-11426a330)  
+[![GitHub]](https://github.com/rishi10rana)  
+[![LeetCode]](https://leetcode.com/u/Rishi_10_Rana/)

@@ -1,1 +1,1 @@
-Skills - C++ , Java , DSA
+Skills - C++ , Java , DSA, SQL
